@@ -1,4 +1,4 @@
-C:\Users\nihar\OneDrive\Desktop\JavaFullStack\Athene\auth-service\src\main\java\com\example\auth\AuthServiceApplication.java
-C:\Users\nihar\OneDrive\Desktop\JavaFullStack\Athene\auth-service\src\main\java\com\example\auth\config\SecurityConfig.java
-C:\Users\nihar\OneDrive\Desktop\JavaFullStack\Athene\auth-service\src\main\java\com\example\auth\model\User.java
-C:\Users\nihar\OneDrive\Desktop\JavaFullStack\Athene\auth-service\src\main\java\com\example\auth\repository\UserRepository.java
+C:\Users\nihar\OneDrive\Desktop\JavaFullStack\Athene\auth-service\src\main\java\com\example\AuthServiceApplication.java
+C:\Users\nihar\OneDrive\Desktop\JavaFullStack\Athene\auth-service\src\main\java\com\example\controller\AuthController.java
+C:\Users\nihar\OneDrive\Desktop\JavaFullStack\Athene\auth-service\src\main\java\com\example\model\User.java
+C:\Users\nihar\OneDrive\Desktop\JavaFullStack\Athene\auth-service\src\main\java\com\example\repository\UserRepository.java

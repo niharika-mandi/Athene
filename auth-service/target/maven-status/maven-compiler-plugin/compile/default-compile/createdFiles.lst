@@ -1,4 +1,4 @@
-com\example\auth\model\User.class
-com\example\auth\config\SecurityConfig.class
-com\example\auth\repository\UserRepository.class
-com\example\auth\AuthServiceApplication.class
+com\example\controller\AuthController.class
+com\example\repository\UserRepository.class
+com\example\model\User.class
+com\example\AuthServiceApplication.class
